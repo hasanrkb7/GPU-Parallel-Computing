@@ -1,0 +1,8 @@
+# build outputs
+*.exe
+*.o
+*.obj
+*.lib
+*.exp
+main
+slurm-*.out
